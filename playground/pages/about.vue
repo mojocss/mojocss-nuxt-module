@@ -1,0 +1,88 @@
+<template>
+  <div>
+    <Navbar />
+
+    <div class="container py-4">
+      <div class="d-flex flex-col a-items-center j-content-center gap-4 my-8">
+        <svg
+          class="w-40 h-40 text-c-primary"
+          fill="currentColor"
+          baseProfile="tiny"
+          version="1.2"
+          viewBox="0 0 150 162"
+          xmlns="http://www.w3.org/2000/svg"
+          data-v-d599066c=""
+        >
+          <path
+            d="m80.32 0h1.47q6.47 0.77 9.1 6.08 6.91 13.91 16.19 25.87a1.19 1.17-49.9 0 1 0.1 1.3q-7.47 13.87-13.23 28.53a0.42 0.41-43.5 0 1-0.78-0.02c-5.41-15.99-13.94-33.66-31.42-38.28q-0.57-0.15-0.25-0.65 4.78-7.38 8.82-15.1c2.47-4.73 4.83-7.23 10-7.73z"
+            data-v-d599066c=""
+          />
+          <path
+            d="m92.24 95.3a0.63 0.62-43.8 0 0 1.18 0.02q9.02-23.49 19.35-46.71c2.06-4.64 9.91-21.57 16.63-16.07q2.08 1.71 2.08 3.77 0.04 28.68 0.02 57.37c-0.01 3.92 1.27 8.92 5.9 9.04 4.83 0.12 9.52-5.72 11.62-9.68q0.2-0.37 0.46-0.04 0.18 0.23 0.04 0.48c-3.74 6.94-10.99 14.79-18.83 15.48-7.46 0.65-11.22-5.96-11.41-12.74q-0.6-20.59-0.13-41.23 0.01-0.43-0.25-0.64a0.55 0.55 0 0 0-0.86 0.23q-9.83 25.75-20.1 51.36c-8.99 22.43-20.78-9.09-23.19-15.15q-5.61-14.13-11.5-28.15c-1.97-4.7-3.93-10.09-7.3-12.48q-0.43-0.31-0.9-0.07c-2.99 1.49-4.08 9.29-4.4 11.92-2.18 17.73 1.86 38.44 13.77 51.94 13.85 15.68 35.63 16.76 53.5 7.13q1.06-0.57 1.92-0.77a0.32 0.32 0 0 1 0.23 0.59q-21.78 12.64-45.52 5.7c-26.54-7.75-46.3-32.19-44.72-60.32 0.7-12.52 8.39-29.85 22.29-31.54 15.18-1.86 23.7 15.11 27.96 26.45q6.39 17.02 12.16 34.11z"
+            data-v-d599066c=""
+          />
+          <path
+            d="m0 81.43v-1.23c0.94-8.62 11.13-11.67 17.59-15.34a0.39 0.39 0 0 1 0.58 0.39c-0.16 1.18-0.53 2.26-0.51 3.35q0.27 16.97 8.43 33.96 0.18 0.39-0.17 0.14-8.39-5.91-17.51-10.65c-5.18-2.7-7.95-4.91-8.41-10.62z"
+            data-v-d599066c=""
+          />
+          <path
+            d="m81.67 162h-1.46c-5.1-0.59-7.43-2.98-9.86-7.69q-5.58-10.79-12.69-20.51a0.31 0.3-4.3 0 1 0.39-0.45c11.54 6.03 27.79 8.9 40.96 7.22q0.65-0.09 0.3 0.47-4.14 6.6-7.73 13.43c-2.46 4.67-4.8 7.03-9.91 7.53z"
+            data-v-d599066c=""
+          />
+        </svg>
+        <svg
+          height="100%"
+          fill="currentColor"
+          baseProfile="tiny"
+          version="1.2"
+          viewBox="0 0 736 191"
+          xmlns="http://www.w3.org/2000/svg"
+          class="w-50 h-8 text-c-stronginvert"
+        ><circle
+          cx="311.29"
+          cy="14.2"
+          r="13.39"
+          data-v-d599066c=""
+        /> <path
+          d="m88.35 58.39c9.07-16.65 30-22.06 47.41-17.41 19.21 5.13 28.72 21.26 28.85 40.34q0.2 30.1 0.13 60.18a0.5 0.49-90 0 1-0.49 0.5h-19.73a0.51 0.51 0 0 1-0.51-0.51q-0.05-26.67 0.04-53.23c0.05-13.71-3.9-26.74-18.8-30.03-16.35-3.62-31.76 6.32-31.89 23.73q-0.22 29.79-0.07 59.47a0.57 0.57 0 0 1-0.57 0.57h-19.71q-0.5 0-0.5-0.5-0.03-25.64-0.01-51.25c0.01-14.18-2.4-27.41-17.46-31.79-16.46-4.8-33.05 5.93-33.18 23.49q-0.22 29.8-0.07 59.48a0.57 0.57 0 0 1-0.57 0.57h-19.97q-0.5 0-0.5-0.5v-100a0.5 0.5 0 0 1 0.5-0.5h20.03a0.53 0.52 90 0 1 0.52 0.53l-0.15 9.75a0.43 0.43 0 0 0 0.75 0.3c17.57-18.93 52.03-15.67 64.91 6.83a0.6 0.59-45.9 0 0 1.04-0.02z"
+          data-v-d599066c=""
+        /> <path
+          d="m218.91 40.9c28.77-7.16 57.71 8.42 63.84 38.37 7.56 36.93-19.57 68.53-57.74 63.99-55.82-6.63-59.85-88.98-6.1-102.36zm36.73 27.96c-15.21-19.29-45.82-13.07-51.87 10.9-3.23 12.81-1.68 28.65 8.2 38.05 9.42 8.96 23.5 9.83 34.69 3.65 17.31-9.58 21.12-37.2 8.98-52.6z"
+          data-v-d599066c=""
+        /> <path
+          d="m340.52 77.76c11.96-53.82 93.34-50.29 100.88 4.88 3.23 23.63-6.65 46.05-28.39 55.96-15.44 7.04-34.24 6.9-49.13-1.4-21.23-11.84-28.42-36.69-23.36-59.44zm55.58-19.62c-42.68-8.32-49 61.71-10.67 67.05 40.77 5.68 48.46-59.69 10.67-67.05z"
+          data-v-d599066c=""
+        /> <path
+          d="m502.34 143.67c-64.77 0.95-68.13-98.57-6.88-104 24.56-2.17 45.49 7.91 52.24 32.74a0.47 0.47 0 0 1-0.45 0.59h-21.03q-0.55 0-0.79-0.49-8.46-16.89-25.97-15.48c-18.08 1.46-25.28 15.45-26.1 31.82-0.85 16.84 5.87 35.65 25.54 37.11q19.01 1.41 26.31-15.43 0.23-0.53 0.81-0.53h21.23a0.46 0.45 8.4 0 1 0.44 0.58c-6.47 21.05-23.25 32.76-45.35 33.09z"
+          data-v-d599066c=""
+        /> <path
+          d="m564.94 54.94c10.25-16.58 36.87-18.46 52.74-12.62q19.43 7.15 21.02 28.94 0.04 0.49-0.45 0.49h-19.73q-0.56 0-0.65-0.55c-2.08-12.9-14.31-15.7-25.43-13.52-5.34 1.05-10.03 4.45-10.44 10.11-0.49 6.86 6.8 10.49 12.35 12.3 18.45 6.02 51.15 10.83 45.12 39.17-7.82 36.7-78.49 30.67-80.12-7.78q-0.02-0.48 0.45-0.48h20.41q0.53 0 0.65 0.52c3.01 13.56 17.42 16.6 29.14 13.23 5.24-1.51 9.58-5.4 9.5-11.08-0.1-6.62-6.4-8.96-12.58-11.1-10.18-3.53-21.27-6.05-29.61-9.61-15.22-6.5-21.14-23.83-12.37-38.02z"
+          data-v-d599066c=""
+        /> <path
+          d="m672.67 93.11c-19.32-8.06-23.2-33.54-5.43-45.85 22.04-15.27 65.32-9.49 66.42 24.03q0.02 0.46-0.44 0.46h-19.75q-0.62 0-0.71-0.61-1.6-10.47-11.03-13.07c-7.5-2.06-21.17-1.88-24.26 7.34-2.81 8.38 6.25 13.09 12.92 15.02 16.46 4.75 37.69 8.9 43.1 24.46 5.81 16.71-4.51 31.04-20.26 36.31-22.91 7.68-56.13-1.5-59.06-29.55a0.59 0.59 0 0 1 0.59-0.65h20.45q0.54 0 0.66 0.52 2.23 10.11 12.15 13.19c7.53 2.33 20.66 2.05 25.15-5.98 6.04-10.78-7.82-15.53-15.17-17.48q-15.95-4.22-25.33-8.14z"
+          data-v-d599066c=""
+        /> <path
+          d="m300.76 162.69q0.05-60.61-0.04-121.15a0.54 0.54 0 0 1 0.54-0.54h19.95q0.52 0 0.52 0.53 0.06 59.26 0.02 118.46c-0.01 27.91-16.06 30.83-39.57 29.93q-0.43-0.01-0.43-0.44v-16.47a0.51 0.51 0 0 1 0.52-0.51c7.37 0.15 18.48 1.12 18.49-9.81z"
+          data-v-d599066c=""
+        /></svg>
+      </div>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas pellentesque risus nec magna vestibulum, quis pretium felis vulputate. Aenean convallis sagittis porta. Ut dapibus, elit quis gravida sodales, lectus nibh aliquet diam, sit amet vehicula diam nisl et ligula. Curabitur justo libero, tincidunt sed leo iaculis, faucibus sagittis arcu. Curabitur eu ultrices nisl. Suspendisse feugiat nisl diam, vitae pretium nunc scelerisque a. In hac habitasse platea dictumst. Sed sed dui nec risus egestas finibus et in velit. Proin pellentesque mattis enim id efficitur.</p>
+      <p>Nunc consectetur ipsum tellus, a maximus tortor vestibulum quis. Morbi maximus aliquam sollicitudin. Quisque cursus lectus at rutrum tristique. In aliquam ante eget pellentesque aliquam. Curabitur auctor tellus eu sapien interdum condimentum. Sed ullamcorper, mi in rhoncus interdum, dolor nibh aliquet ligula, sed porttitor dolor velit vel neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius ex ipsum, vitae egestas nunc dictum ac. Aliquam erat volutpat. Pellentesque vel erat efficitur, molestie sem eu, commodo sem. Donec sagittis orci eu erat venenatis posuere.</p>
+      <p>Pellentesque ut ipsum augue. Integer leo velit, tincidunt in massa sed, lobortis feugiat libero. Sed eu ante sed felis ullamcorper varius vel vitae mauris. Duis feugiat velit ac diam mollis, lobortis tristique justo pretium. Nullam congue pharetra massa, ac rutrum purus dignissim eget. Proin finibus lorem egestas, bibendum lorem eu, eleifend lectus. Integer ornare dolor eget lectus sagittis, et rhoncus sem aliquam. Aliquam non nunc vitae arcu ullamcorper pretium. Pellentesque rutrum vulputate lorem. Praesent sollicitudin ligula at consequat ullamcorper. Donec lacinia nisi vel lectus malesuada scelerisque. Donec at lorem nibh.</p>
+      <p>Nunc consectetur ipsum tellus, a maximus tortor vestibulum quis. Morbi maximus aliquam sollicitudin. Quisque cursus lectus at rutrum tristique. In aliquam ante eget pellentesque aliquam. Curabitur auctor tellus eu sapien interdum condimentum. Sed ullamcorper, mi in rhoncus interdum, dolor nibh aliquet ligula, sed porttitor dolor velit vel neque. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec varius ex ipsum, vitae egestas nunc dictum ac. Aliquam erat volutpat. Pellentesque vel erat efficitur, molestie sem eu, commodo sem. Donec sagittis orci eu erat venenatis posuere.</p>
+      <p>Pellentesque ut ipsum augue. Integer leo velit, tincidunt in massa sed, lobortis feugiat libero. Sed eu ante sed felis ullamcorper varius vel vitae mauris. Duis feugiat velit ac diam mollis, lobortis tristique justo pretium. Nullam congue pharetra massa, ac rutrum purus dignissim eget. Proin finibus lorem egestas, bibendum lorem eu, eleifend lectus. Integer ornare dolor eget lectus sagittis, et rhoncus sem aliquam. Aliquam non nunc vitae arcu ullamcorper pretium. Pellentesque rutrum vulputate lorem. Praesent sollicitudin ligula at consequat ullamcorper. Donec lacinia nisi vel lectus malesuada scelerisque. Donec at lorem nibh.</p>
+    </div>
+
+    <FooterSection />
+  </div>
+</template>
+
+<script>
+import Navbar from "../components/navbar";
+import FooterSection from "../components/footer";
+
+export default {
+  components: {Navbar, FooterSection}
+}
+</script>
