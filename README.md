@@ -2,7 +2,6 @@
 
 ✨ [Mojo CSS](https://mojocss.com) module for [Nuxt](https://nuxt.com).
 
-> This module needs Nuxt 3 or later and runs with Mojo CSS version ^0.2.0-rc.3
 
 ## Features
 
