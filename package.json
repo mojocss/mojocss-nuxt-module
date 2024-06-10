@@ -1,6 +1,6 @@
 {
   "name": "@mojocss/nuxt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mojo CSS Nuxt module",
   "repository": {
     "type": "git",
@@ -37,7 +37,7 @@
   ],
   "dependencies": {
     "@nuxt/kit": "^3.10.3",
-    "mojocss": "^0.2.0-rc.3"
+    "mojocss": "^0.2.0"
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
